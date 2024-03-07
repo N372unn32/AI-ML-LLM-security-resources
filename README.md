@@ -1,4 +1,4 @@
-# AI/ML/LLm-security-resources
+# AI/ML/LLM-security-resources
 bookmarks. list of resources for AI/ML/LLM security
 
 
