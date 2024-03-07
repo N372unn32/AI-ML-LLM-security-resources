@@ -23,10 +23,11 @@ bookmarks. list of resources for AI/ML/LLM security
 | Secure AI FrameworkApproach | Google | [services.google.com](https://services.google.com/fh/files/blogs/google_secure_ai_framework_approach.pdf) |
 | Securing the AI Pipeline | DAN BROWNE, MUHAMMAD MUNEER | [mandiant.com](https://www.mandiant.com/resources/blog/securing-ai-pipeline) |
 | Microsoft’s open automation framework to red team generative AI Systems | Ram Shankar Siva Kumar | [microsoft.com](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/) |
-| Microsoft AI Red Team | Microsoft Learn | [learn.microsoft.com/](https://learn.microsoft.com/en-us/security/ai-red-team/) |
+| Microsoft AI Red Team | Microsoft Learn | [learn.microsoft.com](https://learn.microsoft.com/en-us/security/ai-red-team/) |
 | OWASP Machine Learning Security Top Ten | OWASP | [owasp.org](https://owasp.org/www-project-machine-learning-security-top-10/) |
 | OWASP AI Top Ten | OWASP | [owasp.org](https://owasp.org/www-project-ai-top-ten/) |
 | OWASP Top 10 for Large Language Model Applications | OWASP | [owasp.org](https://owasp.org/www-project-top-10-for-large-language-model-applications/) |
+| Adversarial ML Threat Matrix | MITRE | [github.com](https://github.com/mitre/advmlthreatmatrix) |
 
 
 ## Courses / Videos
@@ -35,7 +36,7 @@ bookmarks. list of resources for AI/ML/LLM security
 | ----------- | -------- | ---- |
 | AI Application Security: Understanding Prompt Injection Attacks and Mitigations | rez0 | [youtube.com](https://www.youtube.com/watch?v=MxxPbN9GGYE) |
 | Red Teaming LLMs with Jupyter Notebooks: A Practical Guide | Pete Bryan | [youtube.com (Timestamp - 2:12)](https://www.youtube.com/watch?v=5CK-hpSYOkQ) |
-| Learn from Microsoft’s AI Red Team on how to make your organization safer | Gary Lopez | [brighttalk.com/](https://www.brighttalk.com/webcast/10415/607319) |
+| Learn from Microsoft’s AI Red Team on how to make your organization safer | Gary Lopez | [brighttalk.com](https://www.brighttalk.com/webcast/10415/607319) |
 
 
 ## Books / Papers
@@ -44,6 +45,7 @@ bookmarks. list of resources for AI/ML/LLM security
 | ----------- | -------- | ---- |
 | Jailbreaking Black Box Large Language Models in Twenty Queries | Patrick Chao, Alexander Robey, Edgar Dobriban, Hamed Hassani, George J. Pappas, Eric Wong | [arxiv.org](https://arxiv.org/abs/2310.08419) |
 | Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations | Apostol Vassilev, Alina Oprea, Alie Fordyce, Hyrum Anderson| [nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) |
+| Not with a Bug, But with a Sticker: Attacks on Machine Learning Systems and What To Do About Them | Ram Shankar Siva Kumar, Hyrum Anderson| [amazon.com](https://www.amazon.com/Not-Bug-But-Sticker-Learning/dp/1119883989) |
 
 
 ## Tools
