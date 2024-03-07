@@ -22,7 +22,7 @@ bookmarks. list of resources for AI/ML/LLM security
 | AI-Powered Fuzzing: Breaking the Bug Hunting Barrier | Dongge Liu, Jonathan Metzman, Oliver Chang, Google Open Source Security Team  | [security.googleblog.com](https://security.googleblog.com/2023/08/ai-powered-fuzzing-breaking-bug-hunting.html) |
 | Secure AI FrameworkApproach | Google | [services.google.com](https://services.google.com/fh/files/blogs/google_secure_ai_framework_approach.pdf) |
 | Securing the AI Pipeline | DAN BROWNE, MUHAMMAD MUNEER | [mandiant.com](https://www.mandiant.com/resources/blog/securing-ai-pipeline) |
-| Example Course | Provider Name | [microsoft.com](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/) |
+| Microsoft’s open automation framework to red team generative AI Systems | Ram Shankar Siva Kumar | [microsoft.com](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/) |
 | Microsoft AI Red Team | Microsoft Learn | [learn.microsoft.com/](https://learn.microsoft.com/en-us/security/ai-red-team/) |
 | OWASP Machine Learning Security Top Ten | OWASP | [owasp.org](https://owasp.org/www-project-machine-learning-security-top-10/) |
 | OWASP AI Top Ten | OWASP | [owasp.org](https://owasp.org/www-project-ai-top-ten/) |
