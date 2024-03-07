@@ -1,5 +1,5 @@
-# AI-ML-security-resources
-bookmarks, list of resources for AI/ML/LLM security
+# AI/ML/LLm-security-resources
+bookmarks. list of resources for AI/ML/LLM security
 
 
 ## Table of Contents
