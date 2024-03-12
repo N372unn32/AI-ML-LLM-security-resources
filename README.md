@@ -54,3 +54,4 @@ bookmarks. list of resources for AI/ML/LLM security
 | ----------- | ------ | ---- |
 | Python Risk Identification Tool for generative AI (PyRIT) | Azure | [github.com](https://github.com/Azure/PyRIT) |
 | Counterfit | Azure | [github.com](https://github.com/Azure/counterfit) |
+| garak, LLM vulnerability scanner | leondz | [github.com](https://github.com/leondz/garak) |
