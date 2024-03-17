@@ -28,6 +28,7 @@ bookmarks. list of resources for AI/ML/LLM security
 | OWASP AI Top Ten | OWASP | [owasp.org](https://owasp.org/www-project-ai-top-ten/) |
 | OWASP Top 10 for Large Language Model Applications | OWASP | [owasp.org](https://owasp.org/www-project-top-10-for-large-language-model-applications/) |
 | Adversarial ML Threat Matrix | MITRE | [github.com](https://github.com/mitre/advmlthreatmatrix) |
+| Welcome to the Offensive ML Playbook | @whitehacksec | [wiki.offsecml.com](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook) |
 
 
 ## Courses / Videos
